@@ -10,6 +10,7 @@ The **Hospital Management System (HMS)** is a comprehensive backend solution des
 - **Real-Time Communication:** Socket.io
 - **API:** RESTful APIs
 - **Version Control:** Git, GitHub
+- **Deployment:** Heroku / AWS / Docker (optional)
 
 ## Features
 - **Patient Management:** Store and manage patient details, including medical history, appointments, and prescriptions.
@@ -31,4 +32,4 @@ To run this project locally, you'll need the following installed:
 1. **Clone the repository:**
 
    ```bash
-https://github.com/mokariya-mohit/HMS.git
+   git clone https://github.com/yourusername/hms-backend.git
